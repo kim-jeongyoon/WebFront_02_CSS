@@ -19,7 +19,6 @@ css 속성 작성 시 크로스 브라우저(브라우저가 달라지는 경우
 */
 
 
-/*다시*/
 /*좌우 이동*/
 .trans-x-2d:hover{
     transform : translateX(100px);
@@ -27,7 +26,7 @@ css 속성 작성 시 크로스 브라우저(브라우저가 달라지는 경우
     -webkit-transform: translateX(100px);
 }
 
-/*다시*/
+
 /*상하 이동*/ 
 .trans-y-2d:hover{
     transform : translateY(100px);

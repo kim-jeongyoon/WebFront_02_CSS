@@ -1,6 +1,7 @@
 div{
     border: 1px solid black;
     box-sizing: border-box;
+    
 }
 
 .test{
@@ -38,7 +39,7 @@ div{
         겹침 문제가 해결됨 
         */
 
-    /*clear: left + clear:right = clear: both*/
+    /*(clear: left) + (clear:right) = clear: both*/
     clear: both;
 }
 
@@ -66,6 +67,7 @@ div{
 
 .row{
     height: 50%;
+    
 }
 
 .container-3{
